@@ -8,7 +8,8 @@
 </head>
 <body>
 
-	<h3>Multi part page</h3>
+	<h3>Multi part page selection</h3>
+	<a href="multipart/upload">Click Here to upload page</a>
 
 </body>
 </html>
